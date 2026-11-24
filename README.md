@@ -4,8 +4,8 @@ A small React library manager for browsing books, checking availability, and tra
 
 ## Assignment details
 
-- Student name: [Add name]
-- Roll number / UID: [Add UID]
+- Student name: Shubham Kumar
+- Roll number / UID: 190
 - Problem statement: P0 — Library Book Manager
 - Vercel URL: https://library-book-manager.vercel.app
 
