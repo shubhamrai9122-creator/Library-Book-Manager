@@ -7,7 +7,7 @@ A small React library manager for browsing books, checking availability, and tra
 - Student name: [Add name]
 - Roll number / UID: [Add UID]
 - Problem statement: P0 — Library Book Manager
-- Vercel URL: [Add deployment URL]
+- Vercel URL: https://library-book-manager.vercel.app
 
 ## Run locally
 
